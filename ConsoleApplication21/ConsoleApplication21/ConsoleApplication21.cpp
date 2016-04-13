@@ -5,7 +5,7 @@
 
 void hello()
 {
-	printf("Hello, GitHub!\n");
+	printf("Hello, nice GitHub!\n");
 }
 int _tmain(int argc, _TCHAR* argv[])
 {
