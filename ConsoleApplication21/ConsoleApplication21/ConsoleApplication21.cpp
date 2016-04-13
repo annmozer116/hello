@@ -9,7 +9,8 @@ void hello()
 }
 int _tmain(int argc, _TCHAR* argv[])
 {
-	hello();
+	for(int i =0;i<4;i++)
+		hello();
 	return 0;
 }
 
